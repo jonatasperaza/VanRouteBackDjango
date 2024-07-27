@@ -1,3 +1,4 @@
 from .alunos import Aluno
-from .enderecos import Enderecos
-from .motoristas import Motoristas
+from .motoristas import Motorista
+from .enderecos import Endereco
+from .vans import Van
